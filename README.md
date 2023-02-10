@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-I'm an old and weird guy who started his first line of code in 2022.  
+I'm an old and weird guy who started his first line of code in 2022, and finished a developer course at Senac in february 2023.
+
 One of my whishes is to use programming to make learning sofwares or learning reinforcement games.📚  
 By the way, I'm really fan of tabletop RPGs. I'm usually the Dungeon Master. 🎲🎲
 
